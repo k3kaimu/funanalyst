@@ -1,0 +1,13 @@
+{
+    "name": "funanalyst",
+    "authors": [
+        "Kazuki Komatsu"
+    ],
+    "dependencies": {
+        "dffdd" : { "path": "../dffdd" },
+        "deint": "~>0.3.3"
+    },
+    "description": "Functional analysis library",
+    "copyright": "Copyright © 2024, Kazuki Komatsu",
+    "license": "NYSL"
+}
